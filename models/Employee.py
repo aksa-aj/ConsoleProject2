@@ -5,7 +5,7 @@ class Employee:
     def display(self):
         print(f"the name is:",self.name)
     
-    def count(self):
+    def sum(self):
         return 46
 
 #empty folders are not tracked and here the env is not tracked too
